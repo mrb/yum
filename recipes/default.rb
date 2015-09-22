@@ -24,3 +24,27 @@ yum_globalconfig '/etc/yum.conf' do
 
   action :create
 end
+
+default[:broken_cookbook][:baz] = "bar"
+default[:broken_cookbook][:baz] = "bar"
+default[:broken_cookbook][:baz] = "bar"
+default[:broken_cookbook][:baz] = "bar"
+default[:broken_cookbook][:baz] = "bar"
+default[:broken_cookbook][:baz] = "bar"
+default[:broken_cookbook][:baz] = "bar"
+default[:broken_cookbook][:baz] = "bar"
+default[:broken_cookbook][:baz] = "bar"
+default[:broken_cookbook][:baz] = "bar"
+default[:broken_cookbook][:baz] = "bar"
+default[:broken_cookbook][:baz] = "bar"
+default[:broken_cookbook][:baz] = "bar"
+default[:broken_cookbook][:baz] = "bar"
+default[:broken_cookbook][:baz] = "bar"
+default[:broken_cookbook][:baz] = "bar"
+default[:broken_cookbook][:baz] = "bar"
+default[:broken_cookbook][:baz] = "bar"
+default[:broken_cookbook][:baz] = "bar"
+default[:broken_cookbook][:baz] = "bar"
+default[:broken_cookbook][:baz] = "bar"
+default[:broken_cookbook][:baz] = "bar"
+default[:broken_cookbook][:baz] = "bar"
