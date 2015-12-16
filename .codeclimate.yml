@@ -6,3 +6,6 @@ engines:
 ratings:
   paths:
   - "**.rb"
+
+exclude_paths:
+  - recipes/default2.rb
